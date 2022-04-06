@@ -1,7 +1,11 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE Porject
 
+<<<<<<< HEAD
 Hi! My name is **Abhishek Singh**, I have created this App by using **Node**, **React**, **Express**, **MongoDB**.
 
+=======
+Hi! My name is **Gurmit Singh**, I have created this Project by using **Node**, **React**, **Express**, **MongoDB**.
+>>>>>>> 223a8e47c8ea5102306ae956e0416a97e8ab8656
 
 # Install Dependencies
 
@@ -31,3 +35,7 @@ CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 223a8e47c8ea5102306ae956e0416a97e8ab8656
